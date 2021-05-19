@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/aspnet:3.1-nanoserver-1909
+FROM mcr.microsoft.com/dotnet/aspnet:3.1-nanoserver-1809
 
 MAINTAINER Rick Strahl
 
